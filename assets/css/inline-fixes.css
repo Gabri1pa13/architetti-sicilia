@@ -1,0 +1,31 @@
+
+:root{--accent:#7a1d52;}
+.studio4e-site-btn{color:#fff !important;}
+
+a.studio4e-link{color:var(--accent);text-decoration:none;font-weight:600;}
+a.studio4e-link:hover{text-decoration:underline;}
+/* WhatsApp floating button */
+}
+@keyframes softPulse{0%{transform:scale(1);}50%{transform:scale(1.03);}100%{transform:scale(1);}}
+/* Site search */
+.site-search-wrap{position:relative;}
+.site-search-btn{border:1px solid rgba(0,0,0,.12);background:#fff;border-radius:999px;padding:10px 12px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;}
+.site-search-btn span{font-weight:600;}
+.site-search-modal{position:fixed;inset:0;z-index:10000;display:none;}
+.site-search-modal.open{display:block;}
+.site-search-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.35);}
+.site-search-panel{position:relative;max-width:760px;margin:7vh auto 0;background:#fff;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.35);padding:16px;}
+.site-search-panel header{display:flex;gap:10px;align-items:center;}
+.site-search-input{flex:1;border:1px solid rgba(0,0,0,.16);border-radius:12px;padding:12px 12px;font-size:16px;}
+.site-search-close{border:0;background:transparent;font-size:22px;cursor:pointer;line-height:1;padding:6px 10px;}
+.site-search-results{margin-top:12px;max-height:62vh;overflow:auto;}
+.site-search-item{display:block;padding:12px;border-radius:12px;text-decoration:none;color:inherit;border:1px solid rgba(0,0,0,.08);margin-bottom:10px;}
+.site-search-item:hover{border-color:rgba(0,0,0,.18);}
+.site-search-item .k{font-size:12px;opacity:.8;margin-bottom:4px;}
+.site-search-item h4{margin:0 0 6px 0;font-size:16px;}
+.site-search-item p{margin:0;font-size:14px;opacity:.9}
+.site-search-badge{display:inline-block;margin-left:8px;font-size:11px;padding:2px 8px;border-radius:999px;background:rgba(122,29,82,.10);color:var(--accent);font-weight:700;}
+
+
+/* Email floating button */
+

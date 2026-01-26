@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Read(//Users/gabrielecostanzo/Desktop/architetti-sicilia_-3 2/**)"
+    ]
+  }
+}

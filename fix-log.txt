@@ -1,0 +1,1611 @@
+🚀 Starting HTML optimization...
+📁 Root directory: /Users/gabrielecostanzo/Desktop/architetti-sicilia_-3 2
+💾 Backups will be saved to: /Users/gabrielecostanzo/Desktop/architetti-sicilia_-3 2/backup-original
+
+Found 800 HTML files
+
+Processing: index.html
+✅ Extracted inline CSS to assets/css/inline-fixes.css
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, 1 images lazy-loaded, CSS extracted
+Processing: search.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: guide/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, 1 images lazy-loaded, CSS extracted
+Processing: guide/palermo/computo-metrico-a-palermo-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/serramenti-a-palermo-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/acustica-interna-a-palermo-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/permessi-e-vincoli-a-palermo-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/rilievo-e-restituzione-a-palermo-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/recupero-seminterrato-a-palermo-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/scelta-pavimenti-a-palermo-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/regolarita-urbanistica-a-palermo-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/ristrutturazione-villa-a-palermo-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-cucina-a-palermo-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-strutturale-a-palermo-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/accorpamento-unita-a-palermo-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/cronoprogramma-lavori-a-palermo-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/illuminazione-naturale-a-palermo-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/condominio-a-palermo-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/cambio-destinazione-duso-a-palermo-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/rifacimento-facciata-a-palermo-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/accessibilita-e-b-b-a-palermo-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/ristrutturare-un-locale-commerciale-a-palermo-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/frazionamento-a-palermo-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/gestione-varianti-in-cantiere-a-palermo-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/due-diligence-prima-dellacquisto-a-palermo-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/catasto-a-palermo-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/isolamento-e-comfort-a-palermo-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/cappotto-termico-a-palermo-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/capitolato-lavori-a-palermo-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/barriere-architettoniche-a-palermo-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/adeguamento-bagno-e-cucina-a-palermo-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/sicurezza-in-cantiere-a-palermo-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/interior-design-a-palermo-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/ristrutturazione-appartamento-a-palermo-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/direzione-lavori-a-palermo-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/recupero-sottotetto-a-palermo-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/scia-a-palermo-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/stima-costi-ristrutturazione-a-palermo-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/studio-di-fattibilita-a-palermo-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/architetto-a-palermo-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-bagno-a-palermo-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/sanatoria-edilizia-a-palermo-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/pratiche-per-ampliamento-a-palermo-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/verifica-stato-legittimo-a-palermo-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-impianti-a-palermo-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/cila-a-palermo-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-scala-interna-a-palermo-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/pratica-edilizia-per-b-b-a-palermo-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/progetto-per-ufficio-a-palermo-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/relazione-tecnica-asseverata-a-palermo-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/tetto-e-coperture-a-palermo-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/palermo/infiltrazioni-e-umidita-a-palermo-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/barriere-architettoniche-a-siracusa-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/cappotto-termico-a-siracusa-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/cila-a-siracusa-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/catasto-a-siracusa-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/relazione-tecnica-asseverata-a-siracusa-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/infiltrazioni-e-umidita-a-siracusa-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-bagno-a-siracusa-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/due-diligence-prima-dellacquisto-a-siracusa-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/pratica-edilizia-per-b-b-a-siracusa-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/accessibilita-e-b-b-a-siracusa-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/serramenti-a-siracusa-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/sicurezza-in-cantiere-a-siracusa-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/permessi-e-vincoli-a-siracusa-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/gestione-varianti-in-cantiere-a-siracusa-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/acustica-interna-a-siracusa-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/verifica-stato-legittimo-a-siracusa-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/direzione-lavori-a-siracusa-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/studio-di-fattibilita-a-siracusa-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/illuminazione-naturale-a-siracusa-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/cambio-destinazione-duso-a-siracusa-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/ristrutturazione-villa-a-siracusa-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/recupero-seminterrato-a-siracusa-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/recupero-sottotetto-a-siracusa-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/condominio-a-siracusa-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/frazionamento-a-siracusa-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/interior-design-a-siracusa-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-cucina-a-siracusa-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-scala-interna-a-siracusa-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/sanatoria-edilizia-a-siracusa-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/pratiche-per-ampliamento-a-siracusa-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/capitolato-lavori-a-siracusa-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/cronoprogramma-lavori-a-siracusa-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/accorpamento-unita-a-siracusa-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/scelta-pavimenti-a-siracusa-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/rilievo-e-restituzione-a-siracusa-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/stima-costi-ristrutturazione-a-siracusa-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/scia-a-siracusa-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/architetto-a-siracusa-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/tetto-e-coperture-a-siracusa-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-impianti-a-siracusa-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-per-ufficio-a-siracusa-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/progetto-strutturale-a-siracusa-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/rifacimento-facciata-a-siracusa-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/ristrutturare-un-locale-commerciale-a-siracusa-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/regolarita-urbanistica-a-siracusa-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/computo-metrico-a-siracusa-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/adeguamento-bagno-e-cucina-a-siracusa-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/isolamento-e-comfort-a-siracusa-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/siracusa/ristrutturazione-appartamento-a-siracusa-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-scala-interna-a-catania-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/sanatoria-edilizia-a-catania-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/accessibilita-e-b-b-a-catania-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/permessi-e-vincoli-a-catania-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/computo-metrico-a-catania-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/recupero-seminterrato-a-catania-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/condominio-a-catania-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/illuminazione-naturale-a-catania-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/architetto-a-catania-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/catasto-a-catania-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/acustica-interna-a-catania-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/serramenti-a-catania-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/frazionamento-a-catania-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/barriere-architettoniche-a-catania-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/infiltrazioni-e-umidita-a-catania-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/adeguamento-bagno-e-cucina-a-catania-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/regolarita-urbanistica-a-catania-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/accorpamento-unita-a-catania-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/recupero-sottotetto-a-catania-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/cila-a-catania-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-strutturale-a-catania-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/interior-design-a-catania-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/ristrutturazione-villa-a-catania-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/scia-a-catania-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/scelta-pavimenti-a-catania-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/cambio-destinazione-duso-a-catania-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/rifacimento-facciata-a-catania-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/cronoprogramma-lavori-a-catania-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/ristrutturare-un-locale-commerciale-a-catania-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/rilievo-e-restituzione-a-catania-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-per-ufficio-a-catania-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/due-diligence-prima-dellacquisto-a-catania-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/capitolato-lavori-a-catania-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/relazione-tecnica-asseverata-a-catania-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/isolamento-e-comfort-a-catania-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/direzione-lavori-a-catania-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/verifica-stato-legittimo-a-catania-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/ristrutturazione-appartamento-a-catania-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-bagno-a-catania-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/stima-costi-ristrutturazione-a-catania-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/pratiche-per-ampliamento-a-catania-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/sicurezza-in-cantiere-a-catania-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-impianti-a-catania-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/cappotto-termico-a-catania-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/gestione-varianti-in-cantiere-a-catania-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/progetto-cucina-a-catania-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/studio-di-fattibilita-a-catania-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/tetto-e-coperture-a-catania-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/catania/pratica-edilizia-per-b-b-a-catania-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/interior-design-a-messina-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-impianti-a-messina-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/studio-di-fattibilita-a-messina-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/recupero-seminterrato-a-messina-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-bagno-a-messina-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-cucina-a-messina-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/sicurezza-in-cantiere-a-messina-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/rilievo-e-restituzione-a-messina-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/stima-costi-ristrutturazione-a-messina-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/ristrutturazione-appartamento-a-messina-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/gestione-varianti-in-cantiere-a-messina-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/adeguamento-bagno-e-cucina-a-messina-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/scia-a-messina-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/direzione-lavori-a-messina-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/capitolato-lavori-a-messina-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/relazione-tecnica-asseverata-a-messina-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/due-diligence-prima-dellacquisto-a-messina-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/recupero-sottotetto-a-messina-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/isolamento-e-comfort-a-messina-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-per-ufficio-a-messina-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/infiltrazioni-e-umidita-a-messina-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/tetto-e-coperture-a-messina-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/rifacimento-facciata-a-messina-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/cambio-destinazione-duso-a-messina-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-scala-interna-a-messina-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/progetto-strutturale-a-messina-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/serramenti-a-messina-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/acustica-interna-a-messina-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/catasto-a-messina-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/regolarita-urbanistica-a-messina-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/permessi-e-vincoli-a-messina-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/cronoprogramma-lavori-a-messina-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/ristrutturare-un-locale-commerciale-a-messina-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/ristrutturazione-villa-a-messina-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/barriere-architettoniche-a-messina-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/accorpamento-unita-a-messina-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/scelta-pavimenti-a-messina-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/condominio-a-messina-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/illuminazione-naturale-a-messina-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/verifica-stato-legittimo-a-messina-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/frazionamento-a-messina-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/cappotto-termico-a-messina-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/architetto-a-messina-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/pratica-edilizia-per-b-b-a-messina-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/sanatoria-edilizia-a-messina-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/pratiche-per-ampliamento-a-messina-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/cila-a-messina-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/computo-metrico-a-messina-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/messina/accessibilita-e-b-b-a-messina-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/cappotto-termico-a-ragusa-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/pratica-edilizia-per-b-b-a-ragusa-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/rifacimento-facciata-a-ragusa-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/regolarita-urbanistica-a-ragusa-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/infiltrazioni-e-umidita-a-ragusa-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-strutturale-a-ragusa-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/scelta-pavimenti-a-ragusa-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/rilievo-e-restituzione-a-ragusa-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/illuminazione-naturale-a-ragusa-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/accorpamento-unita-a-ragusa-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/barriere-architettoniche-a-ragusa-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/catasto-a-ragusa-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/direzione-lavori-a-ragusa-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/recupero-seminterrato-a-ragusa-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/stima-costi-ristrutturazione-a-ragusa-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/studio-di-fattibilita-a-ragusa-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/scia-a-ragusa-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/permessi-e-vincoli-a-ragusa-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/recupero-sottotetto-a-ragusa-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-scala-interna-a-ragusa-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/accessibilita-e-b-b-a-ragusa-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-bagno-a-ragusa-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/cronoprogramma-lavori-a-ragusa-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/pratiche-per-ampliamento-a-ragusa-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/computo-metrico-a-ragusa-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/ristrutturazione-villa-a-ragusa-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/cambio-destinazione-duso-a-ragusa-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/due-diligence-prima-dellacquisto-a-ragusa-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/cila-a-ragusa-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/condominio-a-ragusa-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/verifica-stato-legittimo-a-ragusa-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/architetto-a-ragusa-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/adeguamento-bagno-e-cucina-a-ragusa-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/acustica-interna-a-ragusa-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/sanatoria-edilizia-a-ragusa-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/frazionamento-a-ragusa-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-cucina-a-ragusa-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/ristrutturazione-appartamento-a-ragusa-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/sicurezza-in-cantiere-a-ragusa-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/ristrutturare-un-locale-commerciale-a-ragusa-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/capitolato-lavori-a-ragusa-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/interior-design-a-ragusa-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-impianti-a-ragusa-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/isolamento-e-comfort-a-ragusa-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/progetto-per-ufficio-a-ragusa-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/relazione-tecnica-asseverata-a-ragusa-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/gestione-varianti-in-cantiere-a-ragusa-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/tetto-e-coperture-a-ragusa-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/ragusa/serramenti-a-ragusa-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/catasto-a-trapani-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/tetto-e-coperture-a-trapani-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/recupero-seminterrato-a-trapani-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/studio-di-fattibilita-a-trapani-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-cucina-a-trapani-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/relazione-tecnica-asseverata-a-trapani-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-per-ufficio-a-trapani-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/adeguamento-bagno-e-cucina-a-trapani-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/ristrutturare-un-locale-commerciale-a-trapani-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-scala-interna-a-trapani-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/infiltrazioni-e-umidita-a-trapani-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/gestione-varianti-in-cantiere-a-trapani-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/sicurezza-in-cantiere-a-trapani-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/direzione-lavori-a-trapani-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/capitolato-lavori-a-trapani-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/isolamento-e-comfort-a-trapani-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/ristrutturazione-appartamento-a-trapani-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/rilievo-e-restituzione-a-trapani-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/computo-metrico-a-trapani-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/scia-a-trapani-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/accorpamento-unita-a-trapani-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/stima-costi-ristrutturazione-a-trapani-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/rifacimento-facciata-a-trapani-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/cambio-destinazione-duso-a-trapani-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/interior-design-a-trapani-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/cila-a-trapani-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/regolarita-urbanistica-a-trapani-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/accessibilita-e-b-b-a-trapani-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-bagno-a-trapani-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/cappotto-termico-a-trapani-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-strutturale-a-trapani-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/progetto-impianti-a-trapani-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/frazionamento-a-trapani-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/architetto-a-trapani-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/verifica-stato-legittimo-a-trapani-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/illuminazione-naturale-a-trapani-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/barriere-architettoniche-a-trapani-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/condominio-a-trapani-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/pratica-edilizia-per-b-b-a-trapani-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/serramenti-a-trapani-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/acustica-interna-a-trapani-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/due-diligence-prima-dellacquisto-a-trapani-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/recupero-sottotetto-a-trapani-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/permessi-e-vincoli-a-trapani-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/scelta-pavimenti-a-trapani-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/ristrutturazione-villa-a-trapani-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/sanatoria-edilizia-a-trapani-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/pratiche-per-ampliamento-a-trapani-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/trapani/cronoprogramma-lavori-a-trapani-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/due-diligence-prima-dellacquisto-a-agrigento-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/acustica-interna-a-agrigento-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/ristrutturare-un-locale-commerciale-a-agrigento-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/direzione-lavori-a-agrigento-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/scelta-pavimenti-a-agrigento-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/infiltrazioni-e-umidita-a-agrigento-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/adeguamento-bagno-e-cucina-a-agrigento-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/serramenti-a-agrigento-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/cappotto-termico-a-agrigento-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/rilievo-e-restituzione-a-agrigento-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-cucina-a-agrigento-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/tetto-e-coperture-a-agrigento-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-scala-interna-a-agrigento-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/permessi-e-vincoli-a-agrigento-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/ristrutturazione-villa-a-agrigento-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/regolarita-urbanistica-a-agrigento-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/studio-di-fattibilita-a-agrigento-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-impianti-a-agrigento-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/stima-costi-ristrutturazione-a-agrigento-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/computo-metrico-a-agrigento-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-per-ufficio-a-agrigento-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-bagno-a-agrigento-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/accorpamento-unita-a-agrigento-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/catasto-a-agrigento-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/cila-a-agrigento-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/frazionamento-a-agrigento-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/recupero-seminterrato-a-agrigento-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/sanatoria-edilizia-a-agrigento-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/pratica-edilizia-per-b-b-a-agrigento-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/sicurezza-in-cantiere-a-agrigento-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/verifica-stato-legittimo-a-agrigento-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/interior-design-a-agrigento-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/cambio-destinazione-duso-a-agrigento-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/isolamento-e-comfort-a-agrigento-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/capitolato-lavori-a-agrigento-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/illuminazione-naturale-a-agrigento-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/ristrutturazione-appartamento-a-agrigento-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/condominio-a-agrigento-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/gestione-varianti-in-cantiere-a-agrigento-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/pratiche-per-ampliamento-a-agrigento-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/architetto-a-agrigento-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/relazione-tecnica-asseverata-a-agrigento-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/rifacimento-facciata-a-agrigento-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/accessibilita-e-b-b-a-agrigento-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/cronoprogramma-lavori-a-agrigento-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/barriere-architettoniche-a-agrigento-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/scia-a-agrigento-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/recupero-sottotetto-a-agrigento-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/agrigento/progetto-strutturale-a-agrigento-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/interior-design-a-enna-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/accorpamento-unita-a-enna-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/architetto-a-enna-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/pratiche-per-ampliamento-a-enna-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-scala-interna-a-enna-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/ristrutturazione-villa-a-enna-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/permessi-e-vincoli-a-enna-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/infiltrazioni-e-umidita-a-enna-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/ristrutturare-un-locale-commerciale-a-enna-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/direzione-lavori-a-enna-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/regolarita-urbanistica-a-enna-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/sanatoria-edilizia-a-enna-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/relazione-tecnica-asseverata-a-enna-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/accessibilita-e-b-b-a-enna-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/recupero-seminterrato-a-enna-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-impianti-a-enna-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/acustica-interna-a-enna-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-strutturale-a-enna-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/rifacimento-facciata-a-enna-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/isolamento-e-comfort-a-enna-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/sicurezza-in-cantiere-a-enna-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/cronoprogramma-lavori-a-enna-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/catasto-a-enna-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-cucina-a-enna-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/studio-di-fattibilita-a-enna-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/ristrutturazione-appartamento-a-enna-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/condominio-a-enna-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/frazionamento-a-enna-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/gestione-varianti-in-cantiere-a-enna-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/cambio-destinazione-duso-a-enna-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/scia-a-enna-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/due-diligence-prima-dellacquisto-a-enna-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/cila-a-enna-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-per-ufficio-a-enna-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/capitolato-lavori-a-enna-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/cappotto-termico-a-enna-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/adeguamento-bagno-e-cucina-a-enna-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/barriere-architettoniche-a-enna-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/progetto-bagno-a-enna-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/computo-metrico-a-enna-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/scelta-pavimenti-a-enna-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/pratica-edilizia-per-b-b-a-enna-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/tetto-e-coperture-a-enna-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/verifica-stato-legittimo-a-enna-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/illuminazione-naturale-a-enna-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/recupero-sottotetto-a-enna-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/serramenti-a-enna-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/stima-costi-ristrutturazione-a-enna-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/enna/rilievo-e-restituzione-a-enna-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/due-diligence-prima-dellacquisto-a-caltanissetta-check-tecnico-in-10-punti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-strutturale-a-caltanissetta-quando-coinvolgere-un-ingegnere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/accorpamento-unita-a-caltanissetta-iter-e-impatto-catastale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/cila-a-caltanissetta-quando-serve-e-cosa-cambia-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/adeguamento-bagno-e-cucina-a-caltanissetta-scelte-tecniche-che-contano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/gestione-varianti-in-cantiere-a-caltanissetta-quando-sono-accettabili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/accessibilita-e-b-b-a-caltanissetta-cosa-rende-la-struttura-conforme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/stima-costi-ristrutturazione-a-caltanissetta-come-leggere-un-preventivo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/ristrutturazione-villa-a-caltanissetta-controllo-qualita-e-capitolato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/illuminazione-naturale-a-caltanissetta-rapporto-aeroilluminante-e-comfort.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/tetto-e-coperture-a-caltanissetta-come-prevenire-problemi-ricorrenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/capitolato-lavori-a-caltanissetta-come-renderlo-chiaro-e-misurabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/computo-metrico-a-caltanissetta-perche-evita-varianti-e-contenziosi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/scelta-pavimenti-a-caltanissetta-resistenze-posa-e-manutenzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/sicurezza-in-cantiere-a-caltanissetta-ruoli-e-responsabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/cappotto-termico-a-caltanissetta-rischi-di-condensa-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-impianti-a-caltanissetta-elettrico-e-idrico-senza-improvvisazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/relazione-tecnica-asseverata-a-caltanissetta-cosa-contiene-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-scala-interna-a-caltanissetta-norme-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/barriere-architettoniche-a-caltanissetta-interventi-e-requisiti-essenziali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/pratiche-per-ampliamento-a-caltanissetta-quando-e-possibile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/scia-a-caltanissetta-casi-tipici-e-errori-che-bloccano-i-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/rifacimento-facciata-a-caltanissetta-autorizzazioni-e-scelte-materiali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-per-ufficio-a-caltanissetta-spazi-impianti-e-sicurezza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-bagno-a-caltanissetta-pendenze-impermeabilizzazioni-e-dettagli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/condominio-a-caltanissetta-cosa-chiedere-prima-di-fare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/progetto-cucina-a-caltanissetta-ergonomia-impianti-e-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/catasto-a-caltanissetta-variazioni-docfa-e-tempi-realistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/architetto-a-caltanissetta-come-impostare-un-progetto-senza-sorprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/direzione-lavori-a-caltanissetta-cosa-controlla-il-direttore-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/frazionamento-a-caltanissetta-quando-conviene-e-cosa-controllare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/ristrutturazione-appartamento-a-caltanissetta-tempi-fasi-e-documenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/recupero-sottotetto-a-caltanissetta-cosa-verificare-prima.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/sanatoria-edilizia-a-caltanissetta-cosa-si-puo-regolarizzare-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/interior-design-a-caltanissetta-come-unire-estetica-e-funzionalita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/acustica-interna-a-caltanissetta-soluzioni-pratiche-per-pareti-e-solai.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/pratica-edilizia-per-b-b-a-caltanissetta-cosa-serve-davvero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/cambio-destinazione-duso-a-caltanissetta-cosa-verificare-prima-di-iniziare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/serramenti-a-caltanissetta-prestazioni-posa-e-pratica-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/rilievo-e-restituzione-a-caltanissetta-errori-di-misura-che-costano.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/recupero-seminterrato-a-caltanissetta-requisiti-e-limiti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/infiltrazioni-e-umidita-a-caltanissetta-diagnosi-e-interventi-corretti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/studio-di-fattibilita-a-caltanissetta-come-decidere-prima-di-spendere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/regolarita-urbanistica-a-caltanissetta-come-evitare-problemi-al-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/ristrutturare-un-locale-commerciale-a-caltanissetta-layout-impianti-norme.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/isolamento-e-comfort-a-caltanissetta-come-ridurre-dispersioni-e-rumori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/verifica-stato-legittimo-a-caltanissetta-da-dove-si-parte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/permessi-e-vincoli-a-caltanissetta-come-riconoscerli-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: guide/caltanissetta/cronoprogramma-lavori-a-caltanissetta-come-evitare-cantieri-infiniti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/comfort-abitativo-luce-acustica-ventilazione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/prima-visita-e-sopralluogo-cosa-osserviamo-sul-posto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/materiali-criteri-di-scelta-e-durabilita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/condominio-cosa-serve-prima-di-iniziare-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-come-si-documenta-l-avanzamento.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/accessibilita-soluzioni-pratiche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-gestiamo-tempi-e-responsabilita-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-cosa-succede-se-emergono-imprevisti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-leggiamo-un-preventivo-e-cosa-chiediamo-all-impresa.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/collaborazioni-quando-coinvolgiamo-altri-professionisti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-impostiamo-il-primo-confronto-tecnico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-quali-documenti-servono.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/b-b-e-casa-vacanza-requisiti-e-controllo-qualita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-evitiamo-varianti-non-necessarie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/qualita-dei-dettagli-impermeabilizzazioni-impianti-finiture.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-quanto-tempo-serve-per-partire.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/acquisto-immobiliare-verifiche-tecniche-prima-di-firmare.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/chi-e-studio-4e.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-nasce-un-progetto-dal-rilievo-alle-scelte.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/catasto-e-pratiche-tempi-e-passaggi-tipici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/metodo-di-lavoro-sobrio-tecnico-verificabile.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/documentazione-cosa-consegniamo-e-perche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-chi-coordina-impresa-e-fornitori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/sanatoria-approccio-prudente-e-documentato.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/trasparenza-come-teniamo-traccia-delle-decisioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/come-gestiamo-vincoli-e-autorizzazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/domande-frequenti-come-si-gestiscono-le-varianti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/locali-commerciali-logistica-e-conformita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/direzione-lavori-controlli-e-report.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: studio-4e/efficienza-energetica-senza-interventi-inutili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-per-appartamenti-anni-70.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturazione-bagno-impermeabilizzazioni-e-ventilazione-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-per-ville-in-contesto-costiero.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-evitando-contenziosi-con-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-per-case-in-centro-storico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/capitolato-e-computo-come-impostarli-per-evitare-varianti-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-con-cronoprogramma-realistico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/acquisto-casa-in-sicilia-controlli-tecnici-prima-della-proposta-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/permessi-edilizi-in-sicilia-differenze-tra-cila-scia-e-permesso-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/stato-legittimo-cosa-significa-e-come-si-verifica-con-attenzione-alla-salinita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/isolamento-e-umidita-diagnosi-e-rimedi-coerenti-con-il-contesto-con-priorita-al-comfort-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/efficienza-energetica-interventi-che-migliorano-comfort-e-consumi-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/sanatoria-edilizia-limiti-reali-e-documenti-richiesti-con-scelte-materiali-durevoli.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/ristrutturare-in-sicilia-come-pianificare-budget-e-tempi-senza-bloccare-il-rogito.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: sicilia/direzione-lavori-cosa-fa-e-come-tutela-il-committente-con-vincoli-paesaggistici.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: inizia-da-qui/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: province/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/palermo/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/palermo/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/palermo/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/siracusa/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/siracusa/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/catania/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/catania/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/messina/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/messina/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/ragusa/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/ragusa/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/trapani/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/trapani/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/agrigento/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/agrigento/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/enna/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/enna/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/progettazione-commerciale.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/direzione-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/index.html
+  ✅ JSON-LD cleaned, Title fixed, 1 images lazy-loaded
+Processing: province/caltanissetta/ristrutturazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/efficienza-energetica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/interior-design.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/pratiche-edilizie.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/restauro.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: province/caltanissetta/render-e-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, Title fixed
+Processing: servizi/relazioni-tecniche-e-documentazione-di-progetto.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/cambio-destinazione-d-uso.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/verifica-stato-legittimo-e-regolarita-urbanistica.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/computo-metrico-estimativo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/coperture-tetti-terrazzi-e-impermeabilizzazioni.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/ristrutturazione-di-ville-e-case-indipendenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/isolamento-termico-e-acustico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/direzione-lavori-e-controllo-qualita.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/sicurezza-e-coordinamento-in-cantiere.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/ristrutturazione-completa-di-appartamenti.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/accessibilita-e-rimozione-barriere-architettoniche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/pratiche-edilizie-cila-scia-e-permessi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/capitolato-lavori-e-specifiche.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/progettazione-per-uffici-e-studi-professionali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/gestione-varianti-e-contabilita-lavori.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/assistenza-tecnica-per-acquisto-immobili.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/pratiche-catastali-e-docfa.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/coordinamento-fornitori-e-arredi-su-misura.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/progetto-impianti-e-coordinamento-tecnico.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/supporto-in-fase-di-preventivazione-e-gara-imprese.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/rilievo-architettonico-e-restituzione.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/progetto-facciate-e-finiture-esterne.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/progettazione-per-locali-commerciali.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/adeguamenti-per-b-b-e-case-vacanza.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/check-up-tecnico-per-immobili-datati.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/efficientamento-energetico-e-comfort-abitativo.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/selezione-materiali-e-dettagli-esecutivi.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/progetto-di-interni-cucina-bagno-living.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/sanatorie-e-pratiche-in-sanatoria.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: servizi/studio-di-fattibilita-e-scenari-di-intervento.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/index.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/architect-in-sicily-how-to-plan-a-renovation-with-clear-steps-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-to-protect-your-budget.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/bill-of-quantities-and-specs-how-to-keep-costs-under-control-with-measurable-deliverables.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/renovating-bathrooms-in-sicily-waterproofing-details-that-matter-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-permits-in-sicily-cila-scia-and-what-they-mean-in-practice-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/due-diligence-before-buying-in-sicily-a-technical-checklist-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-to-reduce-noise-and-heat.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-for-1970s-apartments.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-with-low-maintenance-materials.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-with-clear-documentation.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/energy-retrofit-in-sicily-comfort-insulation-and-ventilation-without-delaying-the-schedule.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/building-amnesty-what-can-realistically-be-regularised-to-avoid-disputes-with-contractors.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/as-built-verification-how-to-avoid-surprises-at-closing-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/site-supervision-what-the-director-of-works-actually-controls-for-historic-centres.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+Processing: en/moisture-and-salt-air-diagnosing-damp-issues-near-the-coast-for-coastal-villas.html
+  ✅ JSON-LD cleaned, JSON-LD cleaned, JSON-LD cleaned, Title fixed, CSS extracted
+
+✅ Done! Processed 800/800 files
+📁 Backups saved to: backup-original
+📄 Inline CSS extracted to: assets/css/inline-fixes.css

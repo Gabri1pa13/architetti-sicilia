@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Palermo",
+    "slug": "palermo",
+    "type": "Città metropolitana",
+    "intro": "Dal centro storico alle ville sul mare: pratiche edilizie, interni e ristrutturazioni a Palermo e dintorni."
+  },
+  {
+    "name": "Catania",
+    "slug": "catania",
+    "type": "Città metropolitana",
+    "intro": "Progetti residenziali e commerciali alle pendici dell’Etna: CILA/SCIA, interior e ristrutturazioni."
+  },
+  {
+    "name": "Messina",
+    "slug": "messina",
+    "type": "Città metropolitana",
+    "intro": "Consulenze e progettazione tra costa e colline: ristrutturazioni, sanatorie e direzione lavori."
+  },
+  {
+    "name": "Agrigento",
+    "slug": "agrigento",
+    "type": "Libero consorzio",
+    "intro": "Interventi su case in centro e immobili turistici: pratiche, costi e valorizzazione."
+  },
+  {
+    "name": "Caltanissetta",
+    "slug": "caltanissetta",
+    "type": "Libero consorzio",
+    "intro": "Progetti efficienti e pratiche edilizie in tutta la provincia: dalla casa singola al commerciale."
+  },
+  {
+    "name": "Enna",
+    "slug": "enna",
+    "type": "Libero consorzio",
+    "intro": "Soluzioni su misura per ristrutturazioni, bonus e pratiche edilizie nel cuore della Sicilia."
+  },
+  {
+    "name": "Ragusa",
+    "slug": "ragusa",
+    "type": "Libero consorzio",
+    "intro": "Dal barocco alle nuove ville: interior e ristrutturazioni con metodo, tempi chiari e budget controllato."
+  },
+  {
+    "name": "Siracusa",
+    "slug": "siracusa",
+    "type": "Libero consorzio",
+    "intro": "Progettazione per residenziale, B&B e strutture ricettive: pratiche e direzione lavori."
+  },
+  {
+    "name": "Trapani",
+    "slug": "trapani",
+    "type": "Libero consorzio",
+    "intro": "Interventi su case al mare, ville e immobili turistici: layout, capitolati e pratiche."
+  }
+]
