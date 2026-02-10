@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+# AI-specific resources
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+
 Sitemap: https://architettisicilia.it/sitemap.xml

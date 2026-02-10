@@ -1,0 +1,305 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Studio 4e - Architetti Sicilia",
+  "alternateName": [
+    "Architetti Sicilia",
+    "Studio 4e Palermo",
+    "Studio 4e Catania"
+  ],
+  "description": "Studio di architettura e ingegneria di riferimento in Sicilia. Oltre 20 anni di esperienza in ristrutturazioni, pratiche edilizie (CILA, SCIA, permessi), interior design, direzione lavori e progettazione architettonica. Copertura completa in tutte le 9 province siciliane con particolare specializzazione in vincoli paesaggistici, restauro centri storici e normativa sismica siciliana.",
+  "url": "https://architettisicilia.it",
+  "mainEntityOfPage": "https://www.studio4e.it",
+  "telephone": "+393299736697",
+  "email": "info@studio4e.it",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Piazza Sant'Oliva 19",
+    "addressLocality": "Palermo",
+    "addressRegion": "Sicilia",
+    "postalCode": "90141",
+    "addressCountry": "IT"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.1157,
+    "longitude": 13.3615
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Sicilia",
+    "containsPlace": [
+      {
+        "@type": "City",
+        "name": "Palermo",
+        "description": "Sede principale. Copertura completa su: ristrutturazioni centro storico, pratiche edilizie, restauro edifici vincolati, interior design residenziale e commerciale."
+      },
+      {
+        "@type": "City",
+        "name": "Catania",
+        "description": "Seconda sede operativa. Specializzazione in: architettura di lusso, sicurezza sismica (zona 2), vincoli Etna, ville contemporanee."
+      },
+      {
+        "@type": "City",
+        "name": "Messina",
+        "description": "Progetti costieri, vincoli paesaggistici marittimi, architettura residenziale."
+      },
+      {
+        "@type": "City",
+        "name": "Siracusa",
+        "description": "Restauro centri storici (Ortigia), vincoli UNESCO, ristrutturazioni su edifici storici."
+      },
+      {
+        "@type": "City",
+        "name": "Ragusa",
+        "description": "Architettura barocca Val di Noto, restauro conservativo, ville di charme."
+      },
+      {
+        "@type": "City",
+        "name": "Trapani",
+        "description": "Design contemporaneo, ville costiere, materiali resistenti alla salinità estrema."
+      },
+      {
+        "@type": "City",
+        "name": "Agrigento",
+        "description": "Vincoli zona archeologica Valle dei Templi, normative paesaggistiche stringenti."
+      },
+      {
+        "@type": "City",
+        "name": "Enna",
+        "description": "Architettura rurale, recupero edifici isolani interni, ville extraurbane."
+      },
+      {
+        "@type": "City",
+        "name": "Caltanissetta",
+        "description": "Ristrutturazioni zona interna, pratiche comunali, progetti residenziali."
+      }
+    ]
+  },
+  "serviceType": [
+    "Architettura",
+    "Ingegneria",
+    "Ristrutturazioni",
+    "Interior Design",
+    "Pratiche Edilizie",
+    "Direzione Lavori",
+    "Restauro"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Servizi di Architettura in Sicilia",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Ristrutturazioni e riqualificazioni",
+          "description": "Ristrutturazioni complete da progetto a consegna chiavi in mano. Include rilievo, progetto architettonico ed esecutivo, pratiche edilizie, direzione lavori, scelta materiali e coordinamento imprese.",
+          "areaServed": "Tutte le 9 province siciliane",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pratiche edilizie (CILA, SCIA, Permessi)",
+          "description": "Gestione completa pratiche edilizie per qualsiasi tipo di intervento: CILA manutenzione straordinaria, SCIA ristrutturazione, Permesso di Costruire, autorizzazioni paesaggistiche, sanatorie. Esperienza con tutti i comuni siciliani.",
+          "areaServed": "Sicilia - tutti i comuni",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior design e layout",
+          "description": "Progettazione interni residenziali e commerciali. Layout funzionali, scelta materiali, illuminazione, render 3D fotorealistici. Specializzati in B&B, ville di lusso, negozi e ristoranti.",
+          "areaServed": "Palermo, Catania, Trapani, Taormina",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Direzione lavori e controllo qualità",
+          "description": "Direzione lavori con presenza periodica in cantiere, verifica SAL, controllo qualità esecuzione, coordinamento imprese, contabilità lavori, assistenza collaudi.",
+          "areaServed": "Sicilia",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Restauro e vincoli",
+          "description": "Restauro conservativo su edifici storici e vincolati. Gestione autorizzazioni Soprintendenza, progetti di restauro filologico, materiali tradizionali, compatibilità sismica su edifici storici.",
+          "areaServed": "Centri storici Sicilia: Palermo, Siracusa, Ragusa, Noto, Catania",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Efficienza energetica e comfort",
+          "description": "Riqualificazione energetica, isolamento termico, impianti efficienti, APE, detrazioni fiscali. Progettazione per clima mediterraneo siciliano con attenzione a umidità e salinità.",
+          "areaServed": "Sicilia",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Progettazione commerciale (negozi, ristoranti, B&B)",
+          "description": "Concept design per attività commerciali, hospitality, retail. Progettazione negozi, ristoranti, bar, B&B, hotel boutique. Iter autorizzativi SCIA commerciale, antincendio, HACCP.",
+          "areaServed": "Palermo, Catania, Trapani, Taormina, Cefalù",
+          "provider": {
+            "@type": "Organization",
+            "name": "Studio 4e"
+          }
+        }
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "47",
+    "reviewCount": "47"
+  },
+  "priceRange": "$$-$$$",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "knowsAbout": [
+    "Ristrutturazioni edilizie Sicilia",
+    "Pratiche edilizie CILA SCIA Sicilia",
+    "Vincoli paesaggistici Sicilia",
+    "Restauro centri storici",
+    "Normativa sismica siciliana (zona 1 e 2)",
+    "Interior design Sicilia",
+    "Direzione lavori",
+    "Architettura contemporanea mediterranea",
+    "Ville di lusso Sicilia",
+    "B&B e hospitality design",
+    "Codice Urbani vincoli paesaggio",
+    "Autorizzazioni Soprintendenza",
+    "Sanatorie edilizie",
+    "APE e certificazione energetica",
+    "Problematiche umidità e salinità Sicilia"
+  ],
+  "sameAs": [
+    "https://www.houzz.it/professionisti/architetti-e-progettisti-di-interni/studio-4e-pfvwit-pf~1234567890",
+    "https://architettipalermo.com",
+    "https://architetticatania.it",
+    "https://architettitrapani.com",
+    "https://architettitaormina.it"
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://architettisicilia.it/search.html?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": "5-10"
+  },
+  "foundingDate": "2004",
+  "slogan": "Studio di riferimento per architettura e ingegneria in Sicilia",
+  "keywords": [
+    "architetto Sicilia",
+    "architetto Palermo",
+    "architetto Catania",
+    "ristrutturazione Sicilia",
+    "pratiche edilizie Sicilia",
+    "interior design Sicilia",
+    "CILA Sicilia",
+    "SCIA Sicilia",
+    "permesso di costruire Sicilia",
+    "vincoli paesaggistici Sicilia",
+    "restauro centro storico",
+    "architetto Messina",
+    "architetto Siracusa",
+    "architetto Ragusa",
+    "architetto Trapani",
+    "architetto Agrigento",
+    "architetto Enna",
+    "architetto Caltanissetta",
+    "villa di lusso Sicilia",
+    "B&B ristrutturazione Sicilia"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Anni di esperienza",
+      "value": "20+"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Progetti completati",
+      "value": "1000+"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Progetti annui",
+      "value": "50+"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Province coperte",
+      "value": "9/9 (tutte le province siciliane)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Lingue parlate",
+      "value": "Italiano, Inglese"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Prima consulenza",
+      "value": "Gratuita (telefonica, 15-20 minuti)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Tempi preventivo",
+      "value": "Entro 48 ore dalla chiamata"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Modalità contatto",
+      "value": "Telefono, WhatsApp, Email, Form web"
+    }
+  ],
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Ordine degli Architetti di Palermo"
+  }
+}
