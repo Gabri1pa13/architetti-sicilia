@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Studio 4e",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "47",
+    "reviewCount": "47"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "[NOME RECENSORE 1]"
+      },
+      "datePublished": "2025-12-15",
+      "reviewBody": "[TESTO RECENSIONE DA HOUZZ/GOOGLE - Esempio: Professionisti seri e competenti. Hanno seguito la ristrutturazione del nostro appartamento a Palermo dal progetto alla consegna. Ottima gestione pratiche comunali e direzione lavori impeccabile.]",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Houzz"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "[NOME RECENSORE 2]"
+      },
+      "datePublished": "2025-11-08",
+      "reviewBody": "[TESTO RECENSIONE - Esempio: Studio molto preparato su vincoli paesaggistici. Ci hanno aiutato a ristrutturare una casa nel centro storico gestendo tutte le autorizzazioni Soprintendenza. Consigliato!]",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Google"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "[NOME RECENSORE 3]"
+      },
+      "datePublished": "2025-10-22",
+      "reviewBody": "[TESTO RECENSIONE - Esempio: Ottima esperienza per la ristrutturazione del nostro B&B a Catania. Hanno curato ogni dettaglio dalla progettazione all'interior design. Risultato finale oltre le aspettative.]",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Houzz"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "[NOME RECENSORE 4]"
+      },
+      "datePublished": "2025-09-14",
+      "reviewBody": "[TESTO RECENSIONE - Esempio: Studio 4e ci ha seguito per una villa moderna con tutte le normative sismiche di Catania. Professionalità e competenza tecnica eccellente. Tempi rispettati.]",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Google"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "[NOME RECENSORE 5]"
+      },
+      "datePublished": "2025-08-30",
+      "reviewBody": "[TESTO RECENSIONE - Esempio: Perfetti per chi cerca un architetto esperto in Sicilia. Hanno gestito la nostra ristrutturazione con SCIA e tutti i permessi. Prima consulenza gratuita molto utile.]",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Houzz"
+      }
+    }
+  ]
+}
