@@ -1,0 +1,102 @@
+/* Reviews Section Styles */
+.reviews-section {
+    margin-top: 64px;
+    padding-top: 48px;
+    border-top: 1px solid rgba(0,0,0,.08);
+}
+
+.reviews-carousel {
+    display: flex;
+    gap: 24px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 20px;
+    margin: 0 -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    scrollbar-width: thin;
+    scrollbar-color: #7a1d52 #f0f0f0;
+}
+
+.reviews-carousel::-webkit-scrollbar {
+    height: 8px;
+}
+
+.reviews-carousel::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 4px;
+}
+
+.reviews-carousel::-webkit-scrollbar-thumb {
+    background: #7a1d52;
+    border-radius: 4px;
+}
+
+.reviews-carousel::-webkit-scrollbar-thumb:hover {
+    background: #5a1542;
+}
+
+.review-card {
+    flex: 0 0 340px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 28px;
+    box-shadow: 0 4px 16px rgba(0,0,0,.08);
+    scroll-snap-align: start;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.review-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,.12);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .reviews-carousel {
+        margin: 0 -12px;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .review-card {
+        flex: 0 0 300px;
+        padding: 20px;
+    }
+}
+
+/* Houzz Badge Styles */
+.houzz-badge-hero a {
+    text-decoration: none;
+}
+
+.houzz-badge-hero .badge {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.houzz-badge-hero .badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255,184,0,0.4);
+}
+
+.houzz-badge-footer a:hover {
+    opacity: 0.9;
+}
+
+/* Smooth scroll for carousel */
+.reviews-carousel {
+    scroll-behavior: smooth;
+}
+
+/* Print styles - hide carousel controls */
+@media print {
+    .reviews-carousel {
+        overflow-x: visible;
+        flex-wrap: wrap;
+    }
+
+    .review-card {
+        flex: 0 0 calc(50% - 12px);
+        page-break-inside: avoid;
+    }
+}
