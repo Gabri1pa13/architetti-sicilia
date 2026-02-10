@@ -1,0 +1,102 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Gaetano Di Peri",
+      "rating": 5,
+      "date": "2025-09-11",
+      "platform": "Houzz",
+      "text": "Sono molto felice di lasciare la mia testimonianza e recensione positiva riguardo lo Studio 4E. Mi sono rivolto a loro per la ristrutturazione completa del mio appartamento a Palermo. Fin dal primo incontro, ho percepito grande professionalità e attenzione ai dettagli. Gli architetti Piazza e Costanzo hanno saputo interpretare perfettamente le mie esigenze, proponendo soluzioni innovative e funzionali. Durante tutte le fasi dei lavori, sono stati sempre disponibili e presenti, coordinando le varie maestranze in modo impeccabile. Il risultato finale ha superato le mie aspettative: spazi ottimizzati, scelte estetiche raffinate e un'attenzione particolare alla sostenibilità. Consiglio vivamente Studio 4E a chiunque cerchi un partner affidabile e competente per progetti di architettura e design d'interni.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "author": "Cliente Verificato",
+      "rating": 5,
+      "date": "2025-01-01",
+      "platform": "Houzz",
+      "text": "Professionisti seri, disponibili ed estremamente capaci. Si sono occupati della ristrutturazione del mio appartamento splendidamente",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "author": "Cliente Verificato",
+      "rating": 5,
+      "date": "2025-08-30",
+      "platform": "Houzz",
+      "text": "Il progetto Voga è la prova tangibile che l'architettura può diventare linguaggio universale, capace di fondere tradizione e modernità in un equilibrio perfetto. Gli architetti Fabio Piazza e Gabriele Costanzo sono riusciti a trasformare una storica bottega artigiana in uno spazio contemporaneo, conservando l'anima del luogo e valorizzandone ogni dettaglio. La loro visione ha dato vita a un ambiente dove passato e presente si incontrano con naturalezza, creando un'esperienza unica per chi lo vive. Un esempio straordinario di come il design possa rispettare la storia senza rinunciare all'innovazione.",
+      "verified": true,
+      "project": "Voga"
+    },
+    {
+      "id": 4,
+      "author": "Roberto",
+      "rating": 5,
+      "date": "2024-01-01",
+      "platform": "Houzz",
+      "text": "Mi sono rivolto a studio 4 e per la ristrutturazione della mia casa. Esperienza e professionalità degli architetti Piazza e Costanzo hanno fatto in modo di realizzare la casa dei miei sogni. Hanno saputo interpretare e valorizzare tutte le mie esigenze. Consiglio vivamente",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "author": "Valentina Vitrano",
+      "rating": 5,
+      "date": "2021-12-12",
+      "platform": "Houzz",
+      "text": "Ho incontrato Fabio e Mara per caso, mentre cercavo un architetto per ristrutturare la mia casa. Fin dal primo incontro ho capito di aver trovato le persone giuste: professionali, competenti, creativi e soprattutto in grado di ascoltare e interpretare le mie esigenze. Il loro approccio progettuale è caratterizzato da grande attenzione ai dettagli e dalla capacità di trovare soluzioni originali e funzionali. Durante i lavori sono stati sempre presenti e disponibili, coordinando maestranze e fornitori con grande professionalità. Il risultato ha superato le mie aspettative. Sono riusciti a trasformare la mia casa in un luogo dove ogni spazio è studiato nei minimi particolari, dove la luce, i materiali e i colori creano atmosfere uniche. Consiglio vivamente Studio 4E a tutti coloro che cercano non solo un architetto, ma un partner che sappia trasformare i sogni in realtà.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "author": "Roberto De Gennaro Crescenti",
+      "rating": 5,
+      "date": "2021-05-17",
+      "platform": "Houzz",
+      "text": "I lavori di questa bellissima coppia di architetti siciliani non si possono che definire unici nel loro genere. Capacità progettuali fuori dal comune, cura maniacale dei dettagli, ricerca continua dell'eccellenza. Fabio e Mara sono riusciti a trasformare ogni mio desiderio in realtà, superando sempre le aspettative. La loro passione per il lavoro emerge in ogni progetto, così come la loro capacità di innovare mantenendo un profondo rispetto per la tradizione e il contesto. Consiglio vivamente il loro studio a chiunque cerchi un'architettura che sia al tempo stesso contemporanea e senza tempo.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "author": "Sabrina",
+      "rating": 5,
+      "date": "2020-05-01",
+      "platform": "Houzz",
+      "text": "Mara e Fabio sono due architetti competenti, aggiornati e con un alto senso del bello. Sono riusciti a interpretare perfettamente le nostre esigenze e a trasformare la nostra casa in un luogo unico, dove ogni dettaglio è curato con estrema attenzione. La loro capacità di combinare funzionalità ed estetica è davvero notevole. Consiglio vivamente il loro studio!",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "author": "Gaspare Rappa",
+      "rating": 5,
+      "date": "2020-01-01",
+      "platform": "Houzz",
+      "text": "Consiglio vivamente questi due ottimi professionisti che hanno manifestato nella ristrutturazione della nostra prima casa grande competenza e professionalità, disponibilità e cortesia. Hanno saputo interpretare le nostre esigenze e tradurle in un progetto che ha superato le nostre aspettative, con soluzioni innovative e di grande impatto estetico.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "author": "Daniela Zora",
+      "rating": 5,
+      "date": "2020-04-25",
+      "platform": "Houzz",
+      "text": "Ho trovato in loro grande professionalità e serietà ma anche cordialità e attenzione alle mie esigenze. Hanno seguito passo passo la ristrutturazione del mio appartamento, dalla fase progettuale fino al completamento dei lavori, con una cura dei dettagli davvero encomiabile. Il risultato finale è straordinario: un ambiente che rispecchia perfettamente il mio modo di vivere. Consigliatissimi!",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "author": "Tommaso Lipari",
+      "rating": 5,
+      "date": "2020-01-01",
+      "platform": "Houzz",
+      "text": "Professionisti di profilo elevato, attenti alle esigenze individuali, ma allo stesso propositivi e creativi. Ho apprezzato molto la loro capacità di ascolto e la competenza tecnica con cui hanno affrontato ogni aspetto del progetto. Studio 4E ha trasformato la mia casa in uno spazio che va oltre le mie aspettative, dove funzionalità e bellezza convivono in perfetto equilibrio.",
+      "verified": true
+    }
+  ],
+  "stats": {
+    "totalReviews": 10,
+    "averageRating": 5.0,
+    "platforms": {
+      "Houzz": 10
+    }
+  }
+}
