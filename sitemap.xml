@@ -798,4 +798,6 @@
   <url><loc>https://architettisicilia.it/sicilia/negozi-e-retail-ristrutturare-fronte-strada-e-abbattimento-barriere-rampe.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/sicilia/studi-medici-e-dentistici-impiantistica-speciale-e-radioprotezione-piombature.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/sicilia/coworking-in-palazzi-storici-gestire-cablaggio-e-climatizzazione-senza-rovinare-gli-affreschi.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/ai-info.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://architettisicilia.it/ai-knowledge-base.json</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
 </urlset>
