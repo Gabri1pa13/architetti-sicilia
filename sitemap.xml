@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://architettisicilia.it/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/ai-info.html</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/ai-knowledge-base.json</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/palermo/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/catania/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/messina/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/siracusa/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/ragusa/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/trapani/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/agrigento/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/enna/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/caltanissetta/migliori-architetti/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/palermo/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/catania/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/messina/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/siracusa/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/ragusa/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/trapani/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/agrigento/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/enna/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/province/caltanissetta/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/inizia-da-qui/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+
   <url><loc>https://architettisicilia.it/guide/agrigento/accessibilita-e-b-b-a-agrigento-cosa-rende-la-struttura-conforme.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/accorpamento-unita-a-agrigento-iter-e-impatto-catastale.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/acustica-interna-a-agrigento-soluzioni-pratiche-per-pareti-e-solai.html</loc><changefreq>weekly</changefreq></url>
