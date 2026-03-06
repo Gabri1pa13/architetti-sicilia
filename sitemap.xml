@@ -37,7 +37,7 @@
   <url><loc>https://architettisicilia.it/guide/agrigento/computo-metrico-a-agrigento-perche-evita-varianti-e-contenziosi.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/condominio-a-agrigento-cosa-chiedere-prima-di-fare-lavori.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/cronoprogramma-lavori-a-agrigento-come-evitare-cantieri-infiniti.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://architettisicilia.it/guide/agrigento/direzione-lavori-a-agrigento-cosa-controlla-il-direttore-lavori.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/guide/agrigento/direzione-lavori-a-agrigento-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/due-diligence-prima-dellacquisto-a-agrigento-check-tecnico-in-10-punti.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/frazionamento-a-agrigento-quando-conviene-e-cosa-controllare.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/gestione-varianti-in-cantiere-a-agrigento-quando-sono-accettabili.html</loc><changefreq>weekly</changefreq></url>
@@ -64,12 +64,12 @@
   <url><loc>https://architettisicilia.it/guide/agrigento/ristrutturare-un-locale-commerciale-a-agrigento-layout-impianti-norme.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/ristrutturazione-appartamento-a-agrigento-tempi-fasi-e-documenti.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/ristrutturazione-villa-a-agrigento-controllo-qualita-e-capitolato.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://architettisicilia.it/guide/agrigento/sanatoria-edilizia-a-agrigento-cosa-si-puo-regolarizzare-davvero.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/guide/agrigento/sanatoria-edilizia-a-agrigento-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/scelta-pavimenti-a-agrigento-resistenze-posa-e-manutenzione.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/scia-a-agrigento-casi-tipici-e-errori-che-bloccano-i-lavori.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/serramenti-a-agrigento-prestazioni-posa-e-pratica-energetica.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/sicurezza-in-cantiere-a-agrigento-ruoli-e-responsabilita.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://architettisicilia.it/guide/agrigento/stima-costi-ristrutturazione-a-agrigento-come-leggere-un-preventivo.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://architettisicilia.it/guide/agrigento/stima-costi-ristrutturazione-a-agrigento-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/studio-di-fattibilita-a-agrigento-come-decidere-prima-di-spendere.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/tetto-e-coperture-a-agrigento-come-prevenire-problemi-ricorrenti.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/guide/agrigento/verifica-stato-legittimo-a-agrigento-da-dove-si-parte.html</loc><changefreq>weekly</changefreq></url>
@@ -823,4 +823,22 @@
   <url><loc>https://architettisicilia.it/sicilia/coworking-in-palazzi-storici-gestire-cablaggio-e-climatizzazione-senza-rovinare-gli-affreschi.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://architettisicilia.it/ai-info.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://architettisicilia.it/ai-knowledge-base.json</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://architettisicilia.it/guide/siracusa/sanatoria-edilizia-a-siracusa-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/siracusa/direzione-lavori-a-siracusa-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/siracusa/stima-costi-ristrutturazione-a-siracusa-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/trapani/sanatoria-edilizia-a-trapani-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/trapani/direzione-lavori-a-trapani-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/trapani/stima-costi-ristrutturazione-a-trapani-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/ragusa/sanatoria-edilizia-a-ragusa-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/ragusa/direzione-lavori-a-ragusa-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/ragusa/stima-costi-ristrutturazione-a-ragusa-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/enna/sanatoria-edilizia-a-enna-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/enna/direzione-lavori-a-enna-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/enna/stima-costi-ristrutturazione-a-enna-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/caltanissetta/sanatoria-edilizia-a-caltanissetta-cosa-si-puo-regolarizzare-davvero.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/caltanissetta/direzione-lavori-a-caltanissetta-cosa-controlla-il-direttore-lavori.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/guide/caltanissetta/stima-costi-ristrutturazione-a-caltanissetta-come-leggere-un-preventivo.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/en/architect-fees-in-sicily-what-you-actually-pay-in-2026.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/en/holiday-rental-permits-sicily-airbnb-legal-requirements-2026.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
+  <url><loc>https://architettisicilia.it/en/pre-purchase-technical-survey-sicily-what-to-commission-before-you-sign.html</loc><priority>0.7</priority><changefreq>monthly</changefreq><lastmod>2026-03-06</lastmod></url>
 </urlset>
