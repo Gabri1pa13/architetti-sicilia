@@ -4,5 +4,79 @@ Allow: /
 # AI-specific resources
 Allow: /ai-info.html
 Allow: /ai-knowledge-base.json
+Allow: /llms.txt
 
 Sitemap: https://architettisicilia.it/sitemap.xml
+
+# AI Crawlers - esplicitamente autorizzati all'accesso completo
+# e alle risorse ottimizzate per AI
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Anthropic (alternativo)
+User-agent: anthropic-ai
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Google AI (Gemini training e AI Overviews)
+User-agent: Google-Extended
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Apple Intelligence / Siri
+User-agent: Applebot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Meta AI
+User-agent: meta-externalagent
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Common Crawl (usato da molti modelli LLM per training)
+User-agent: CCBot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Amazon Alexa / Rufus
+User-agent: Amazonbot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
+
+# Microsoft Copilot / Bing AI
+User-agent: bingbot
+Allow: /
+Allow: /ai-info.html
+Allow: /ai-knowledge-base.json
+Allow: /llms.txt
