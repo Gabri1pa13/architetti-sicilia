@@ -122,12 +122,18 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
-        /* Sezione video scroll-scrub: processo di ristrutturazione */
+        /* Sezione scroll-scrub: processo di ristrutturazione (canvas + sequenza di fotogrammi) */
         .renovation-scrub {
             position: relative;
             height: 400vh;
             height: 400dvh;
             margin-top: 48px;
+        }
+
+        .renovation-scrub.is-static {
+            height: 70vh;
+            height: 70dvh;
+            min-height: 420px;
         }
 
         .renovation-scrub__sticky {
@@ -141,12 +147,27 @@
             justify-content: center;
         }
 
-        .renovation-scrub__video {
+        .renovation-scrub.is-static .renovation-scrub__sticky {
+            position: relative;
+            height: 100%;
+        }
+
+        .renovation-scrub__poster,
+        .renovation-scrub__canvas {
             position: absolute;
             inset: 0;
             width: 100%;
             height: 100%;
             object-fit: cover;
+        }
+
+        .renovation-scrub__canvas {
+            opacity: 0;
+            transition: opacity .25s ease;
+        }
+
+        .renovation-scrub__canvas.is-ready {
+            opacity: 1;
         }
 
         .renovation-scrub__overlay {
@@ -163,8 +184,12 @@
             padding: 0 24px;
             max-width: 720px;
             text-shadow: 0 2px 14px rgba(0, 0, 0, 0.55), 0 1px 3px rgba(0, 0, 0, 0.4);
-            opacity: 0;
+            opacity: 1;
             will-change: opacity;
+        }
+
+        .renovation-scrub.is-static .renovation-scrub__text {
+            opacity: 1;
         }
 
         .renovation-scrub__text h2 {
@@ -181,9 +206,47 @@
             opacity: 0.95;
         }
 
+        .renovation-scrub__hint {
+            position: absolute;
+            left: 50%;
+            bottom: clamp(24px, 6vh, 56px);
+            transform: translateX(-50%);
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            color: #fff;
+            font-size: 13px;
+            letter-spacing: .04em;
+            text-transform: uppercase;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            opacity: 1;
+            will-change: opacity;
+            pointer-events: none;
+        }
+
+        .renovation-scrub__hint svg {
+            animation: renovation-hint-bounce 1.6s ease-in-out infinite;
+        }
+
+        .renovation-scrub.is-static .renovation-scrub__hint {
+            display: none;
+        }
+
+        @keyframes renovation-hint-bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(6px); }
+        }
+
         @media (prefers-reduced-motion: reduce) {
-            .renovation-scrub__text {
+            .renovation-scrub__text,
+            .renovation-scrub__hint {
                 transition: none;
+            }
+
+            .renovation-scrub__hint svg {
+                animation: none;
             }
         }
     </style>
@@ -622,14 +685,18 @@
 
         <section class="renovation-scrub" id="renovation-scrub">
             <div class="renovation-scrub__sticky">
-                <video class="renovation-scrub__video" id="renovationScrubVideo" muted playsinline preload="auto" poster="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-poster.jpg">
-                    <source src="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-web.webm" type="video/webm">
-                    <source src="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-web.mp4" type="video/mp4">
-                </video>
+                <img class="renovation-scrub__poster" id="renovationScrubPoster" src="/assets/images/renovation-frames/frame-001.webp" alt="Cantina siciliana durante la ristrutturazione: dal grezzo alla finitura" loading="eager" fetchpriority="high">
+                <canvas class="renovation-scrub__canvas" id="renovationScrubCanvas" aria-hidden="true"></canvas>
                 <div class="renovation-scrub__overlay"></div>
                 <div class="renovation-scrub__text" id="renovationScrubText">
                     <h2>Dal progetto alla realtà</h2>
                     <p>La trasformazione di una cantina siciliana: dal grezzo alla finitura, passo dopo passo.</p>
+                </div>
+                <div class="renovation-scrub__hint" id="renovationScrubHint">
+                    <span>Scorri per scoprire la trasformazione</span>
+                    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+                        <path d="M12 4v14m0 0-5-5m5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
             </div>
         </section>
@@ -989,23 +1056,77 @@
     <script>
     (function () {
         var section = document.getElementById('renovation-scrub');
-        var video = document.getElementById('renovationScrubVideo');
+        var poster = document.getElementById('renovationScrubPoster');
+        var canvas = document.getElementById('renovationScrubCanvas');
         var textEl = document.getElementById('renovationScrubText');
-        if (!section || !video || !textEl) return;
+        var hintEl = document.getElementById('renovationScrubHint');
+        if (!section || !poster || !canvas || !textEl) return;
 
-        var duration = 0;
+        var FRAME_COUNT = 90;
+        var FRAME_BASE = '/assets/images/renovation-frames/frame-';
+        var ctx = canvas.getContext('2d');
+        var frames = [];
         var ready = false;
         var ticking = false;
-        var blobUrl = null;
+        var lastDrawnIndex = -1;
+        var reducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
         function clamp(value, min, max) {
             return Math.min(max, Math.max(min, value));
         }
 
+        function frameUrl(index) {
+            var n = String(index + 1);
+            while (n.length < 3) n = '0' + n;
+            return FRAME_BASE + n + '.webp';
+        }
+
+        function loadFrame(index) {
+            var src = frameUrl(index);
+            if (window.createImageBitmap) {
+                return fetch(src)
+                    .then(function (res) { return res.blob(); })
+                    .then(function (blob) { return createImageBitmap(blob); });
+            }
+            return new Promise(function (resolve, reject) {
+                var img = new Image();
+                img.onload = function () { resolve(img); };
+                img.onerror = reject;
+                img.src = src;
+            });
+        }
+
+        function resizeCanvas() {
+            var dpr = window.devicePixelRatio || 1;
+            var w = section.clientWidth || canvas.clientWidth;
+            var h = canvas.clientHeight || window.innerHeight;
+            canvas.width = Math.round(w * dpr);
+            canvas.height = Math.round(h * dpr);
+        }
+
+        function drawFrame(index) {
+            var img = frames[index];
+            if (!img || canvas.width === 0 || canvas.height === 0) return;
+
+            var iw = img.width || img.naturalWidth;
+            var ih = img.height || img.naturalHeight;
+            var cw = canvas.width;
+            var ch = canvas.height;
+
+            // Replica il comportamento "object-fit: cover" ritagliando
+            // l'area sorgente in proporzione al canvas di destinazione.
+            var scale = Math.max(cw / iw, ch / ih);
+            var sw = cw / scale;
+            var sh = ch / scale;
+            var sx = (iw - sw) / 2;
+            var sy = (ih - sh) / 2;
+
+            ctx.drawImage(img, sx, sy, sw, sh, 0, 0, cw, ch);
+            lastDrawnIndex = index;
+        }
+
         function textOpacity(progress) {
-            var fadeIn = 0.08;
             var fadeOut = 0.85;
-            if (progress < fadeIn) return progress / fadeIn;
             if (progress > fadeOut) return clamp(1 - (progress - fadeOut) / (1 - fadeOut), 0, 1);
             return 1;
         }
@@ -1019,11 +1140,14 @@
             var progress = scrollableDistance > 0 ? clamp(scrolled / scrollableDistance, 0, 1) : 0;
 
             textEl.style.opacity = textOpacity(progress);
+            if (hintEl) {
+                hintEl.style.opacity = clamp(1 - progress / 0.05, 0, 1);
+            }
 
-            if (ready && duration) {
-                var targetTime = progress * duration;
-                if (Math.abs(video.currentTime - targetTime) > 0.01) {
-                    video.currentTime = targetTime;
+            if (ready) {
+                var index = Math.round(progress * (FRAME_COUNT - 1));
+                if (index !== lastDrawnIndex) {
+                    drawFrame(index);
                 }
             }
         }
@@ -1035,64 +1159,62 @@
             }
         }
 
-        function markReady() {
-            if (ready) return;
-            duration = video.duration || 0;
-            ready = true;
-
-            // Alcune versioni di iOS Safari non aggiornano il fotogramma
-            // renderizzato quando si imposta currentTime su un video muto
-            // che non e' mai entrato in stato "playing". Un play/pause
-            // immediato (impercettibile, il video resta muto e non in
-            // autoplay agli occhi dell'utente) sblocca il decoder cosi'
-            // i seek successivi restano fluidi durante lo scroll.
-            var primePlay = video.play();
-            if (primePlay && typeof primePlay.then === 'function') {
-                primePlay.then(function () { video.pause(); }).catch(function () {});
-            } else {
-                video.pause();
+        function handleResize() {
+            resizeCanvas();
+            if (ready && lastDrawnIndex >= 0) {
+                var idx = lastDrawnIndex;
+                lastDrawnIndex = -1;
+                drawFrame(idx);
             }
-
-            render();
+            onScrollOrResize();
         }
 
-        // Precarica interamente il video (blob locale) cosi' lo scrubbing
-        // legge fotogrammi gia' bufferizzati invece di attendere la rete.
-        function preloadFully() {
-            var sourceUrl = video.currentSrc || video.querySelector('source').src;
-            fetch(sourceUrl)
-                .then(function (response) { return response.blob(); })
-                .then(function (blob) {
-                    blobUrl = URL.createObjectURL(blob);
-                    video.addEventListener('loadedmetadata', markReady, { once: true });
-                    video.src = blobUrl;
-                    video.load();
-                })
-                .catch(function () {
-                    // Fallback: usa il video con streaming/preload nativo del browser.
-                    video.addEventListener('loadedmetadata', markReady, { once: true });
-                    if (video.readyState >= 1) markReady();
-                });
+        function preloadAllFrames() {
+            var indexes = [];
+            for (var i = 0; i < FRAME_COUNT; i++) indexes.push(i);
+
+            Promise.all(indexes.map(function (i) {
+                return loadFrame(i).then(function (img) { frames[i] = img; });
+            })).then(function () {
+                ready = true;
+                resizeCanvas();
+
+                if (reducedMotion) {
+                    // Chi preferisce meno movimento vede direttamente il
+                    // risultato finale, senza scroll forzato ne' animazione.
+                    section.classList.add('is-static');
+                    drawFrame(FRAME_COUNT - 1);
+                } else {
+                    render();
+                }
+
+                canvas.classList.add('is-ready');
+            }).catch(function () {
+                // Se il precaricamento fallisce il poster (primo fotogramma)
+                // resta visibile come fallback statico.
+            });
         }
 
-        if (video.readyState >= 1) {
-            duration = video.duration || 0;
+        if (reducedMotion) {
+            preloadAllFrames();
+            return;
         }
 
         var preloadObserver = new IntersectionObserver(function (entries) {
             entries.forEach(function (entry) {
                 if (entry.isIntersecting) {
                     preloadObserver.disconnect();
-                    preloadFully();
+                    preloadAllFrames();
                 }
             });
         }, { rootMargin: '200% 0px' });
         preloadObserver.observe(section);
 
         window.addEventListener('scroll', onScrollOrResize, { passive: true });
-        window.addEventListener('resize', onScrollOrResize);
-        window.addEventListener('orientationchange', onScrollOrResize);
+        window.addEventListener('resize', handleResize);
+        window.addEventListener('orientationchange', handleResize);
 
+        resizeCanvas();
         render();
     })();
     </script>
