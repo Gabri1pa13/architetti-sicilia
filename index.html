@@ -121,6 +121,69 @@
             z-index: 2;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
+
+        /* Sezione video scroll-scrub: processo di ristrutturazione */
+        .renovation-scrub {
+            position: relative;
+            height: 400vh;
+            margin-top: 48px;
+        }
+
+        .renovation-scrub__sticky {
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .renovation-scrub__video {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .renovation-scrub__overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.35);
+        }
+
+        .renovation-scrub__text {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            color: #fff;
+            padding: 0 24px;
+            max-width: 720px;
+            text-shadow: 0 2px 14px rgba(0, 0, 0, 0.55), 0 1px 3px rgba(0, 0, 0, 0.4);
+            opacity: 0;
+            will-change: opacity;
+        }
+
+        .renovation-scrub__text h2 {
+            font-size: clamp(28px, 5vw, 48px);
+            margin: 0 0 14px;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .renovation-scrub__text p {
+            font-size: clamp(15px, 2vw, 20px);
+            margin: 0 auto;
+            line-height: 1.6;
+            opacity: 0.95;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .renovation-scrub__text {
+                transition: none;
+            }
+        }
     </style>
 
     <meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"/>
@@ -555,6 +618,20 @@
             </div>
         </section>
 
+        <section class="renovation-scrub" id="renovation-scrub">
+            <div class="renovation-scrub__sticky">
+                <video class="renovation-scrub__video" id="renovationScrubVideo" muted playsinline preload="auto" poster="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-poster.jpg">
+                    <source src="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-web.webm" type="video/webm">
+                    <source src="/assets/images/hf_20260719_141422_4a3760b8-a17f-4444-8aca-857d99271ec1-web.mp4" type="video/mp4">
+                </video>
+                <div class="renovation-scrub__overlay"></div>
+                <div class="renovation-scrub__text" id="renovationScrubText">
+                    <h2>Dal progetto alla realtà</h2>
+                    <p>La trasformazione di una cantina siciliana: dal grezzo alla finitura, passo dopo passo.</p>
+                </div>
+            </div>
+        </section>
+
         <h2 class="visually-hidden">Esplora le risorse</h2>
         
         <div class="grid">
@@ -906,5 +983,102 @@
             <a class="contact-fab__item" href="mailto:info@studio4e.it">Email</a>
         </nav>
     </details>
+
+    <script>
+    (function () {
+        var section = document.getElementById('renovation-scrub');
+        var video = document.getElementById('renovationScrubVideo');
+        var textEl = document.getElementById('renovationScrubText');
+        if (!section || !video || !textEl) return;
+
+        var duration = 0;
+        var ready = false;
+        var ticking = false;
+        var blobUrl = null;
+
+        function clamp(value, min, max) {
+            return Math.min(max, Math.max(min, value));
+        }
+
+        function textOpacity(progress) {
+            var fadeIn = 0.08;
+            var fadeOut = 0.85;
+            if (progress < fadeIn) return progress / fadeIn;
+            if (progress > fadeOut) return clamp(1 - (progress - fadeOut) / (1 - fadeOut), 0, 1);
+            return 1;
+        }
+
+        function render() {
+            ticking = false;
+
+            var rect = section.getBoundingClientRect();
+            var scrollableDistance = section.offsetHeight - window.innerHeight;
+            var scrolled = -rect.top;
+            var progress = scrollableDistance > 0 ? clamp(scrolled / scrollableDistance, 0, 1) : 0;
+
+            textEl.style.opacity = textOpacity(progress);
+
+            if (ready && duration) {
+                var targetTime = progress * duration;
+                if (Math.abs(video.currentTime - targetTime) > 0.01) {
+                    video.currentTime = targetTime;
+                }
+            }
+        }
+
+        function onScrollOrResize() {
+            if (!ticking) {
+                ticking = true;
+                requestAnimationFrame(render);
+            }
+        }
+
+        function markReady() {
+            if (ready) return;
+            duration = video.duration || 0;
+            ready = true;
+            render();
+        }
+
+        // Precarica interamente il video (blob locale) cosi' lo scrubbing
+        // legge fotogrammi gia' bufferizzati invece di attendere la rete.
+        function preloadFully() {
+            var sourceUrl = video.currentSrc || video.querySelector('source').src;
+            fetch(sourceUrl)
+                .then(function (response) { return response.blob(); })
+                .then(function (blob) {
+                    blobUrl = URL.createObjectURL(blob);
+                    video.addEventListener('loadedmetadata', markReady, { once: true });
+                    video.src = blobUrl;
+                    video.load();
+                })
+                .catch(function () {
+                    // Fallback: usa il video con streaming/preload nativo del browser.
+                    video.addEventListener('loadedmetadata', markReady, { once: true });
+                    if (video.readyState >= 1) markReady();
+                });
+        }
+
+        if (video.readyState >= 1) {
+            duration = video.duration || 0;
+        }
+
+        var preloadObserver = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                    preloadObserver.disconnect();
+                    preloadFully();
+                }
+            });
+        }, { rootMargin: '200% 0px' });
+        preloadObserver.observe(section);
+
+        window.addEventListener('scroll', onScrollOrResize, { passive: true });
+        window.addEventListener('resize', onScrollOrResize);
+        window.addEventListener('orientationchange', onScrollOrResize);
+
+        render();
+    })();
+    </script>
 </body>
 </html>
