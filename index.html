@@ -126,6 +126,7 @@
         .renovation-scrub {
             position: relative;
             height: 400vh;
+            height: 400dvh;
             margin-top: 48px;
         }
 
@@ -133,6 +134,7 @@
             position: sticky;
             top: 0;
             height: 100vh;
+            height: 100dvh;
             overflow: hidden;
             display: flex;
             align-items: center;
@@ -1037,6 +1039,20 @@
             if (ready) return;
             duration = video.duration || 0;
             ready = true;
+
+            // Alcune versioni di iOS Safari non aggiornano il fotogramma
+            // renderizzato quando si imposta currentTime su un video muto
+            // che non e' mai entrato in stato "playing". Un play/pause
+            // immediato (impercettibile, il video resta muto e non in
+            // autoplay agli occhi dell'utente) sblocca il decoder cosi'
+            // i seek successivi restano fluidi durante lo scroll.
+            var primePlay = video.play();
+            if (primePlay && typeof primePlay.then === 'function') {
+                primePlay.then(function () { video.pause(); }).catch(function () {});
+            } else {
+                video.pause();
+            }
+
             render();
         }
 
