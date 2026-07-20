@@ -181,7 +181,7 @@ input:focus,select:focus{outline:3px solid rgba(184,40,120,.25);outline-offset:2
   .grid{grid-template-columns:1fr}
   .menu{display:none}
   .nav-inner{justify-content:space-between}
-  .btn{padding:11px 12px}
+  .btn{padding:11px 12px;min-height:48px}
 }
 
 
