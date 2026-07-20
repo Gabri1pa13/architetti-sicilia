@@ -8,6 +8,9 @@ Allow: /llms.txt
 
 Sitemap: https://architettisicilia.it/sitemap.xml
 
+# IndexNow (Bing/Yandex instant-indexing key)
+IndexNow: https://architettisicilia.it/b76ede4dc3ecde28a2657b8e0a0b7a58.txt
+
 # AI Crawlers - esplicitamente autorizzati all'accesso completo
 # e alle risorse ottimizzate per AI
 
