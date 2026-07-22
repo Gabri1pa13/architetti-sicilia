@@ -76,7 +76,27 @@
 
 .houzz-badge-hero .badge:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(255,184,0,0.4);
+    box-shadow: 0 4px 12px rgba(122,29,82,0.4);
+}
+
+.review-card__quote {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.review-card__link {
+    display: inline-block;
+    margin-top: 4px;
+    color: #7a1d52;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.review-card__link:hover {
+    text-decoration: underline;
 }
 
 .houzz-badge-footer a:hover {
