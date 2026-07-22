@@ -80,6 +80,10 @@
 }
 
 .review-card__quote {
+    color: #333;
+    line-height: 1.6;
+    margin: 0 0 8px;
+    font-size: 15px;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
