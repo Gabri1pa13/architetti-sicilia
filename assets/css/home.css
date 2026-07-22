@@ -54,7 +54,8 @@
 .faq-section__title{ font-size:24px; margin:0 0 12px; color:var(--accent2); }
 .faq-section__lede{ color:var(--muted); font-size:15px; line-height:1.6; margin:0 0 24px; }
 .faq-item{ margin-bottom:24px; padding:20px; background:#fff; border-left:4px solid var(--accent2); border-radius:var(--radius-sm); }
-.faq-item__q{ margin:0 0 10px; font-size:18px; color:#333; }
+.faq-item__q{ margin:0; font-size:18px; color:#333; cursor:pointer; font-weight:600; }
+.faq-item[open] .faq-item__q{ margin-bottom:10px; }
 .faq-item__a p{ margin:0; color:#555; line-height:1.6; }
 
 /* Territorial network */
