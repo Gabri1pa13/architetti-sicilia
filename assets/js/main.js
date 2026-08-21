@@ -504,3 +504,6 @@
     els.forEach(show);
   }
 })();
+
+
+/* Google Ads conversion tracking (Studio 4e) */ (function(){function fireConversion(s,x){if(typeof gtag!=='function')return;gtag('event','conversion',Object.assign({send_to:s},x||{}));}document.addEventListener('click',function(e){var t=e.target;var lead=t&&t.closest&&t.closest('#send-whatsapp, #send-email');if(lead){fireConversion('AW-960404172/3zUGCL_QjuUcEMy1-skD');return;}var tel=t&&t.closest&&t.closest('a[href^="tel:"]');if(tel){fireConversion('AW-960404172/pglBCLrRjuUcEMy1-skD',{value:1.0,currency:'EUR'});}},true);})();
