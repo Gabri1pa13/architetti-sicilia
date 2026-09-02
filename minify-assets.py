@@ -40,28 +40,49 @@ def minify_css_file(filepath):
     return output_path, original_size, minified_size, savings
 
 def minify_js_simple(filepath):
-    """Simple JS minification (remove comments and whitespace)"""
+    """Minify JS with terser (real AST-based minifier).
+
+    A previous regex-based approach (strip `//...` comments, then
+    collapse whitespace) mistook `https://` inside string literals for
+    a line comment and truncated code after it, shipping broken JS to
+    production. Terser understands JS syntax, so it can't make that
+    mistake; if terser isn't available we fall back to copying the
+    file unminified rather than risk corrupting it.
+    """
+    import subprocess
+
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Remove single-line comments
-    import re
-    minified = re.sub(r'//.*?$', '', content, flags=re.MULTILINE)
-
-    # Remove multi-line comments
-    minified = re.sub(r'/\*.*?\*/', '', minified, flags=re.DOTALL)
-
-    # Remove extra whitespace
-    minified = re.sub(r'\s+', ' ', minified)
-    minified = re.sub(r'\s*([{};,:])\s*', r'\1', minified)
-
     output_path = filepath.with_suffix('.min.js')
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(minified)
+
+    try:
+        subprocess.run(
+            ['npx', '--yes', 'terser', str(filepath), '-o', str(output_path),
+             '-c', '-m', '--comments', 'false'],
+            check=True, capture_output=True, text=True,
+        )
+        with open(output_path, 'r', encoding='utf-8') as f:
+            minified = f.read()
+    except (FileNotFoundError, subprocess.CalledProcessError) as e:
+        print(f"  ⚠️  terser unavailable/failed for {filepath.name}, copying unminified: {e}")
+        minified = content
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(minified)
+
+    # Guard against ever shipping broken JS again.
+    try:
+        subprocess.run(['node', '-c', str(output_path)], check=True, capture_output=True, text=True)
+    except FileNotFoundError:
+        print("  ⚠️  node not found, skipping syntax check")
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(
+            f"{output_path} failed syntax check after minification:\n{e.stderr}"
+        )
 
     original_size = len(content)
     minified_size = len(minified)
-    savings = (1 - minified_size / original_size) * 100
+    savings = (1 - minified_size / original_size) * 100 if original_size else 0
 
     return output_path, original_size, minified_size, savings
 
@@ -142,12 +163,6 @@ def main():
     print()
     print(f"✅ Done! Minified {files_processed} files")
     print(f"💾 Total bandwidth saved: {total_savings:,} bytes ({total_savings/1024:.1f} KB)")
-
-    print()
-    print("⚠️  IMPORTANT:")
-    print("For production-grade JS minification, use tools like:")
-    print("  • Terser: npm install -g terser && terser main.js -o main.min.js -c -m")
-    print("  • UglifyJS: npm install -g uglify-js && uglifyjs main.js -o main.min.js -c -m")
 
 if __name__ == "__main__":
     main()
