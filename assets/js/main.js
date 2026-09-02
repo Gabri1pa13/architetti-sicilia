@@ -455,9 +455,11 @@
       try {
         var msg = form ? buildContactMessage(form) : 'Richiesta dal sito Architetti Sicilia';
         var url = 'https://wa.me/' + phone + '?text=' + encodeURIComponent(msg);
-        // Try new tab first (best UX on desktop); fallback to same tab.
-        var win = window.open(url, '_blank', 'noopener,noreferrer');
-        if (!win) window.location.href = url;
+        // window.open() always returns null when 'noopener'/'noreferrer' is set
+        // (per spec), so that can't be used to detect a blocked popup — doing so
+        // made this always navigate the current tab to wa.me too, right after
+        // opening the new tab.
+        window.open(url, '_blank', 'noopener,noreferrer');
       } catch (err) {
         // Absolute fallback
         window.location.href = 'https://wa.me/' + phone;
