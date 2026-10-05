@@ -563,10 +563,11 @@
                     <span class="badge palermo-catania-badge">Palermo & Catania</span>
                 </div>
 
-                <div class="hero-actions">
-                    <a class="btn" href="/inizia-da-qui/">Inizia da qui</a>
-                    <a class="btn secondary" href="/guide/">Sfoglia le Guide</a>
+                <div class="hero-actions hero-cta">
+                    <a class="btn" href="https://wa.me/393299736697?text=Buongiorno%2C%20vorrei%20informazioni%20per%20un%20progetto%20in%20Sicilia" target="_blank" rel="noopener" data-cta="hero-whatsapp">Richiedi un preventivo</a>
+                    <a class="btn secondary cta-phone" href="tel:+393299736697" data-cta="hero-phone" aria-label="Chiama Studio 4e: +39 329 973 6697">Chiama +39 329 973 6697</a>
                 </div>
+                <p class="hero-links">Vuoi prima informarti? <a href="/inizia-da-qui/">Inizia da qui</a> o <a href="/guide/">sfoglia le guide</a>.</p>
             </div>
             
             <div class="hero-media">
@@ -833,7 +834,16 @@
             </div>
         </section>
 
-    
+        <section class="contact-cta" id="contatti">
+            <h2 class="contact-cta__title">Hai un progetto in Sicilia?</h2>
+            <p class="contact-cta__lede">Raccontaci cosa vuoi realizzare: ristrutturazione, pratica edilizia, interior design o restauro. Ti ricontattiamo per una prima valutazione del tuo intervento.</p>
+            <div class="contact-cta__actions">
+                <a class="btn contact-cta__primary" href="https://wa.me/393299736697?text=Buongiorno%2C%20vorrei%20informazioni%20per%20un%20progetto%20in%20Sicilia" target="_blank" rel="noopener" data-cta="footer-whatsapp">Scrivici su WhatsApp</a>
+                <a class="btn contact-cta__secondary" href="tel:+393299736697" data-cta="footer-phone" aria-label="Chiama Studio 4e: +39 329 973 6697">Chiama +39 329 973 6697</a>
+                <a class="btn contact-cta__secondary" href="mailto:info@studio4e.it" data-cta="footer-email">info@studio4e.it</a>
+            </div>
+        </section>
+
         <section class="province-cta">
             <div class="province-cta__inner">
                 <h2 class="province-cta__title">I Migliori Architetti in Sicilia per Provincia</h2>
@@ -944,6 +954,15 @@
             <a class="contact-fab__item" href="mailto:info@studio4e.it">Email</a>
         </nav>
     </details>
+
+    <script>
+    document.addEventListener('click', function (e) {
+        var el = e.target.closest && e.target.closest('[data-cta]');
+        if (el && typeof gtag === 'function') {
+            gtag('event', 'cta_click', { cta_id: el.getAttribute('data-cta'), link_url: el.href });
+        }
+    });
+    </script>
 
     <script>
     (function () {
