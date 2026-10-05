@@ -20,7 +20,28 @@
 .social-proof-badges{ display:flex; gap:12px; flex-wrap:wrap; margin-top:12px; }
 .badge-link{ text-decoration:none; }
 .hero-actions{ margin-top:20px; }
-.hero-actions .btn.secondary{ margin-left:10px; }
+.hero-actions{ display:flex; flex-wrap:wrap; gap:10px; }
+.hero-actions .btn{ font-size:15px; padding:14px 22px; }
+.hero-links{ margin:14px 0 0; font-size:14px; color:#555; }
+.hero-links a{ color:var(--accent2); font-weight:600; }
+
+/* Contact CTA */
+.contact-cta{
+  margin-top:80px; padding:56px 24px; text-align:center;
+  background:#fff; border:1px solid rgba(184,40,120,.18);
+  border-radius:var(--radius-lg); box-shadow:0 10px 30px rgba(0,0,0,.06);
+}
+.contact-cta__title{ font-size:32px; margin:0 0 12px; color:var(--accent2); }
+.contact-cta__lede{ font-size:17px; color:#555; max-width:680px; margin:0 auto 28px; line-height:1.6; }
+.contact-cta__actions{ display:flex; flex-wrap:wrap; justify-content:center; gap:12px; }
+.contact-cta__actions .btn{ font-size:15px; padding:14px 22px; }
+.contact-cta__secondary{ background:rgba(184,40,120,.06); color:var(--text); border:1px solid rgba(184,40,120,.18); box-shadow:none; }
+.contact-cta__secondary:hover{ background:rgba(184,40,120,.10); }
+@media (max-width:600px){
+  .contact-cta{ padding:40px 16px; }
+  .contact-cta__title{ font-size:26px; }
+  .hero-actions .btn, .contact-cta__actions .btn{ width:100%; }
+}
 .houzz-rating-badge{ font-weight:600; background:var(--accent2); color:#fff; padding:8px 16px; box-shadow:0 2px 8px rgba(122,29,82,.3); }
 .palermo-catania-badge{ font-weight:600; background:#f0f0f0; }
 
